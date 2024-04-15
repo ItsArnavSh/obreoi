@@ -3,7 +3,7 @@
 </script>
 <style>
     .intro {
-      background-image: url('img/title.png');
+      background-image: url('/img/title.png');
       background-repeat: no-repeat;
       background-size: cover;
       height:800px;
