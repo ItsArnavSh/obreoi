@@ -6,16 +6,16 @@
       background-image: url('/img/title.png');
       background-repeat: no-repeat;
       background-size: cover;
-      height:800px;
+      height:900px;
     }
     </style>
   <div class = "intro">
         <div class = "text-center flex flex-col justify-center">
-            <h1 class = "text-xl titlefont-bold text-white mt-20">
-                The Spirit of The Obreoi Udaivilas
+            <h1 class = "text-3xl titlefont-bold text-white mt-20">
+                The Spirit of <br>The Obreoi Udaivilas
             </h1>
             
-            <div class = "content text-white p-10 text-container">
+            <div class = "content text-white text-sm p-10 text-container">
                 <p class = "pb-4">
                     Nestled amidst the majestic Aravalli Mountain Range, The Oberoi Udaivilas stands as a mesmerizing tribute to the opulent legacy of Mewar. Our sanctuary exudes an aura of tranquility and romance, promising to immerse you in an unforgettable journey of splendor.
                 </p>
