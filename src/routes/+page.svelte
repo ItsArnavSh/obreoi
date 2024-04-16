@@ -4,5 +4,4 @@
     import Dining from "./dining/+page.svelte"
 </script>
 <INTRO />
-<br>
 <Contents />
