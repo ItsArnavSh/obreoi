@@ -7,7 +7,7 @@
     }
 </style>
 <script>
-    let contents = ["Dining Experience","Elevated Dining Experience at Udaivilas","Experiences","Shopping Options","Sightseeing Options","The Oberoi Spa"];
+    let contents = [["Dining Experience","dining"],["Elevated Dining Experience at Udaivilas","elevated"],["Experiences","Experiences"],["Shopping Options","shopping"],["Sightseeing Options","sightseeing"],["The Oberoi Spa"]];
 </script>
 <div class = "backgrounder">
     <div class = "text-3xl titlefont-regular p-5 pt-40 text-center">
@@ -15,7 +15,7 @@
     </div>
     <div class = "text-center">
     {#each contents as content}
-    <a href = "/"><p class = "text-black content-regular m-10 text-xl ">{content}</p></a>
+    <a href = "./{content[1]}"><p class = "text-black content-regular m-10 text-xl ">{content[0]}</p></a>
     {/each}
     </div>
 </div>
