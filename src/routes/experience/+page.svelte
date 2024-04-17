@@ -79,7 +79,7 @@
         .backgrounder {
       background-image: url('/img/toc.png');
       background-repeat: repeat;
-      
+      background-size: cover;
       height:auto;
     }
 </style>
