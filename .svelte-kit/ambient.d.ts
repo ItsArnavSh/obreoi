@@ -26,7 +26,6 @@
  * ```
  */
 declare module '$env/static/private' {
-	export const GJS_DEBUG_TOPICS: string;
 	export const LESSOPEN: string;
 	export const LANGUAGE: string;
 	export const USER: string;
@@ -112,12 +111,10 @@ declare module '$env/static/private' {
 	export const npm_package_version: string;
 	export const npm_lifecycle_event: string;
 	export const QT_ACCESSIBILITY: string;
-	export const NO_AT_BRIDGE: string;
 	export const GDMSESSION: string;
 	export const LESSCLOSE: string;
 	export const GTK_PATH_VSCODE_SNAP_ORIG: string;
 	export const GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG: string;
-	export const GJS_DEBUG_OUTPUT: string;
 	export const VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 	export const QT_IM_MODULE: string;
 	export const npm_config_globalconfig: string;
@@ -166,7 +163,6 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
-		GJS_DEBUG_TOPICS: string;
 		LESSOPEN: string;
 		LANGUAGE: string;
 		USER: string;
@@ -252,12 +248,10 @@ declare module '$env/dynamic/private' {
 		npm_package_version: string;
 		npm_lifecycle_event: string;
 		QT_ACCESSIBILITY: string;
-		NO_AT_BRIDGE: string;
 		GDMSESSION: string;
 		LESSCLOSE: string;
 		GTK_PATH_VSCODE_SNAP_ORIG: string;
 		GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG: string;
-		GJS_DEBUG_OUTPUT: string;
 		VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 		QT_IM_MODULE: string;
 		npm_config_globalconfig: string;

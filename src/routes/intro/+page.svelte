@@ -11,11 +11,11 @@
     </style>
   <div class = "intro">
         <div class = "text-center flex flex-col justify-center">
-            <h1 class = "text-3xl titlefont-bold text-white mt-20">
+            <h1 class = "text-3xl titlefont-bold text-black mt-20">
                 The Spirit of <br>The Oberoi Udaivilas
             </h1>
             
-            <div class = "content text-white text-lg pb-10 pt-10 text-container">
+            <div class = "content text-lg pb-10 pt-10 text-container ">
                 <p class = "pb-4">
                     Nestled amidst the majestic Aravalli Mountain Range, The Oberoi Udaivilas stands as a mesmerizing tribute to the opulent legacy of Mewar. Our sanctuary exudes an aura of tranquility and romance, promising to immerse you in an unforgettable journey of splendor.
                 </p>
