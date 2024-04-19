@@ -26,6 +26,7 @@
  * ```
  */
 declare module '$env/static/private' {
+	export const GJS_DEBUG_TOPICS: string;
 	export const LESSOPEN: string;
 	export const LANGUAGE: string;
 	export const USER: string;
@@ -41,6 +42,7 @@ declare module '$env/static/private' {
 	export const HOME: string;
 	export const CHROME_DESKTOP: string;
 	export const LOCPATH_VSCODE_SNAP_ORIG: string;
+	export const OLDPWD: string;
 	export const TERM_PROGRAM_VERSION: string;
 	export const DESKTOP_SESSION: string;
 	export const GTK_PATH: string;
@@ -55,7 +57,6 @@ declare module '$env/static/private' {
 	export const MANAGERPID: string;
 	export const npm_config_userconfig: string;
 	export const npm_config_local_prefix: string;
-	export const DBUS_STARTER_BUS_TYPE: string;
 	export const NIX_PATH: string;
 	export const SYSTEMD_EXEC_PID: string;
 	export const IM_CONFIG_CHECK_ENV: string;
@@ -115,6 +116,7 @@ declare module '$env/static/private' {
 	export const LESSCLOSE: string;
 	export const GTK_PATH_VSCODE_SNAP_ORIG: string;
 	export const GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG: string;
+	export const GJS_DEBUG_OUTPUT: string;
 	export const VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 	export const QT_IM_MODULE: string;
 	export const npm_config_globalconfig: string;
@@ -123,7 +125,6 @@ declare module '$env/static/private' {
 	export const npm_execpath: string;
 	export const XDG_CONFIG_DIRS: string;
 	export const NVM_CD_FLAGS: string;
-	export const DBUS_STARTER_ADDRESS: string;
 	export const XDG_DATA_DIRS: string;
 	export const npm_config_global_prefix: string;
 	export const npm_command: string;
@@ -163,6 +164,7 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
+		GJS_DEBUG_TOPICS: string;
 		LESSOPEN: string;
 		LANGUAGE: string;
 		USER: string;
@@ -178,6 +180,7 @@ declare module '$env/dynamic/private' {
 		HOME: string;
 		CHROME_DESKTOP: string;
 		LOCPATH_VSCODE_SNAP_ORIG: string;
+		OLDPWD: string;
 		TERM_PROGRAM_VERSION: string;
 		DESKTOP_SESSION: string;
 		GTK_PATH: string;
@@ -192,7 +195,6 @@ declare module '$env/dynamic/private' {
 		MANAGERPID: string;
 		npm_config_userconfig: string;
 		npm_config_local_prefix: string;
-		DBUS_STARTER_BUS_TYPE: string;
 		NIX_PATH: string;
 		SYSTEMD_EXEC_PID: string;
 		IM_CONFIG_CHECK_ENV: string;
@@ -252,6 +254,7 @@ declare module '$env/dynamic/private' {
 		LESSCLOSE: string;
 		GTK_PATH_VSCODE_SNAP_ORIG: string;
 		GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG: string;
+		GJS_DEBUG_OUTPUT: string;
 		VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 		QT_IM_MODULE: string;
 		npm_config_globalconfig: string;
@@ -260,7 +263,6 @@ declare module '$env/dynamic/private' {
 		npm_execpath: string;
 		XDG_CONFIG_DIRS: string;
 		NVM_CD_FLAGS: string;
-		DBUS_STARTER_ADDRESS: string;
 		XDG_DATA_DIRS: string;
 		npm_config_global_prefix: string;
 		npm_command: string;
