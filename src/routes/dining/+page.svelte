@@ -3,29 +3,29 @@
     let diningData = [
         {
             name:"Suryamahal",
-            about: "A daytime dining space, crowned with a sky blue, cloud brushed dome.Tables nestled in interconnecting domes afford spectacular views of the hotel's gardens",
-            more: "Operational for breakfast (07am – 10:30 am) and Lunch (12pm – 03:30pm).",
+            about: "A daytime dining space, crowned with a sky blue, cloud brushed dome.Tables nestled in interconnecting domes afford spectacular views of the hotel's gardens.",
+            more: "Operational for breakfast (07A.M.– 10:30 am) and Lunch (12P.M. – 03:30pm).",
             imageLocation: "/dining/a.png",
             map : ""
         },
         {
             name:"Chandni",
             about:"Offers stunning views of the City Palace and Lake Pichola. The menu spans Western and Indian cuisine.",
-            more:"Operational from 7pm – 11pm.",
+            more:"Operational from 7P.M. – 11pm.",
             imageLocation:"/dining/b.png",
             map:""
         },
         {
             name:"Udaimahal",
             about:"Evening dining space adorned with a night sky, domed ceiling. Candlelit at night, with live traditional musicians. Udaimahal epitomises romance. The menu features Indian cuisine rare dishes and reinvented classics.",
-            more:"Operational from 7pm – 11pm.",
+            more:"Operational from 7P.M. – 11pm.",
             imageLocation:"/dining/c.png",
             map:""
         },
         {
             name:"Bar",
             about:"Has an almost labyrinthine layout between domes and through arches that offer uninterrupted views of the lake and gardens. An intricate geometric pattern of green and white marble, sandstone and black granite ornaments the floor, while the antique finish bar is framed by an intricate Mewar arch.",
-            more:"Operational from 12pm – 12am.",
+            more:"Operational from 12P.M. – 12am.",
             imageLocation:"/dining/d.png",
             map:""
         },
@@ -54,14 +54,14 @@
         {
             name:"The Dining Room",
             about:"Walk into the all-day dining restaurant that overlooks the outer courtyard and the Pichola Lake for the most refreshing and expansive breakfasts and flavoursome lunches and dinners.",
-            more:"Operational for Lunch (12pm – 3pm) and <br>Dinner (07pm – 10:30pm)<br>Minimum spend- INR 2500 plus taxes per person.",
+            more:"Operational for Lunch (12P.M. – 3pm) and <br>Dinner (07P.M. – 10:30pm)<br>Minimum spend- INR 2500 plus taxes per person.",
             imageLocation:"/dining/h.png",
             map:""
         },
         {
             name:"Sheeshmahal",
             about:" Using recipes mastered in royal kitchens, with contemporary nuances added to them, the two-level restaurant takes diners through a journey of exquisite Indian flavours",
-            more:"Available in 02 slots: 07:30pm and 09:30pm for dinner<br>Minimum spend- INR 3500 plus taxes per person.",
+            more:"Available in 02 slots: 07:30P.M. and 09:30P.M. for dinner<br>Minimum spend- INR 3500 plus taxes per person.",
             imageLocation:"/dining/i.png",
             map:""
         },
@@ -77,7 +77,7 @@
         {
             name:"THE ROYAL REPAST<br>(from the house of bedla)",
             about: "The Royal Repast from THE HOUSE OF BEDLA, is a specialty restaurant and it is an attempt to link and reconcile food with history and heritage. It attempts to show you a glimpse of traditional Mewar Style cooking that is counted among the legends of this glorious lands.",
-            more: "Operational from (11am – 10:30pm)",
+            more: "Operational from (11A.M.– 10:30pm)",
             imageLocation: "/dining/l.png",
             map : "",
             contact:"Contact: +91 0294 2522362 "
@@ -85,14 +85,14 @@
         {
             name:"AMBRAI",
             about: "Ideally located on the banks of Pichola Lake with panoramic view of Jagdish Temple, Gangaur Ghat, City Palace, Lake Palace, Jag Mandir and Sajjangarh Fort. Ambrai serves excellent multi cuisine delicacies to the guests",
-            more: "Operational for Lunch (12pm – 03pm) <br>Dinner (07pm – 10pm)",
+            more: "Operational for Lunch (12P.M. – 03pm) <br>Dinner (07P.M. – 10pm)",
             imageLocation: "/dining/m.png",
             map : "",
             contact:"Contact: +91 0294 243 1589 ext. +91 0294 2431085 "
         },
         {
             name:"UPRE BY 1559",
-            about: "Upré is located on the terrace of Lake Pichola Hotel with a colossal water frontage. It is an informal, open-air bar and terrace restaurant offering a selection of international and local cuisines, cocktails and wines. Operational for dinner (07pm -10pm).",
+            about: "Upré is located on the terrace of Lake Pichola Hotel with a colossal water frontage. It is an informal, open-air bar and terrace restaurant offering a selection of international and local cuisines, cocktails and wines. Operational for dinner (07P.M. -10pm).",
             more: "",
             imageLocation: "/dining/n.png",
             map : "",
@@ -100,7 +100,7 @@
         },
         {
             name:"1559 A.D BISTRO LOUNGE",
-            about: " The idea is to provide a memorable experience to the guests in hospitality, ambience and architecture and last but not the least mouth watering cuisines. Operational for dinner (07pm – 10pm)",
+            about: " The idea is to provide a memorable experience to the guests in hospitality, ambience and architecture and last but not the least mouth watering cuisines. Operational for dinner (07P.M. – 10pm)",
             more: "",
             imageLocation: "/dining/o.png",
             map : "",
@@ -117,8 +117,8 @@
 </style>
 <div class = "backgrounder flex flex-col items-center pt-10">
     <div>
-        <h1 class = "titlefont-bold text-3xl ">
-            Dining Experience
+        <h1 class = "titlefont-bold text-3xl text-center">
+            Dining options in Udaipur
         </h1>
     </div>
     <h1 class = "text-3xl titlefont-bold mt-10">THE OBEROI UDAIVILAS</h1>
