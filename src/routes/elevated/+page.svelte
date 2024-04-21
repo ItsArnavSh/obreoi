@@ -11,8 +11,8 @@
     }
 </style>
 <div class = "backgrounder text-center flex flex-col items-center">
-<h1 class = " text-center titlefont-regular text-2xl pt-10">Unique Dining Experiences At</h1>
-<p class="text-3xl titlefont-regular p-5">Udaivilas</p>
+<h1 class = " text-center titlefont-regular text-3xl pt-10">Unique Dining Experiences At</h1>
+<p class="text-3xl titlefont-regular p-3">Udaivilas</p>
 <h1 class = "text-3xl titlefont-regular">The Experience</h1>
 <p class = "content-regular text-lg w-[90vw]">At Unique dining, we aim at creating an extraordinary dining experience for you! <br>
     The idea is to create an enjoyable atmosphere that is the ideal setting for unwinding and sharing a specially curated romantic supper with your significant other.</p>
@@ -21,7 +21,7 @@
     This classic Indian look goes amazingly well with the backdrop of the City Palace and overall ambience.</p>
 
 <div class = "flex flex-col items-center pt-10">
-    <h1 class = "text-3xl titlefont-bold pb-5">Lakeside Dome </h1>
+    <h1 class = "text-3xl titlefont-regular pb-5">Lakeside Dome </h1>
 <img src = "im.png" class = "w-80 border border-white border-8">
 <p class = "p-5">
     An exquisite poolside dining experience under an intricately carved dome decorated with a curtain of fresh marigold and candle lit.
@@ -91,7 +91,7 @@ INR 8,500 + taxes for every additional guest
     Charges
 </h1>
 <p class = "pb-10">
-    INR 50,000 for venue rental 
+    INR 50,000 for venue rental <br>
     Tapas and small bites priced at INR 2000 plus taxes per person
     drinks on alacarte
 </div>
