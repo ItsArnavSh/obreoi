@@ -10,18 +10,18 @@
         background-color: white;
     }
 </style>
-<div class = "backgrounder text-center">
+<div class = "backgrounder text-center flex flex-col items-center">
 <h1 class = " text-center titlefont-regular text-2xl pt-10">Unique Dining Experiences At</h1>
-<img src = "/logo.png" class = "" alt = "stuff">
+<p class="text-3xl titlefont-regular p-5">Udaivilas</p>
 <h1 class = "text-3xl titlefont-regular">The Experience</h1>
-<p class = "content-regular text-lg">At Unique dining, we aim at creating an extraordinary dining experience for you! <br>
+<p class = "content-regular text-lg w-[90vw]">At Unique dining, we aim at creating an extraordinary dining experience for you! <br>
     The idea is to create an enjoyable atmosphere that is the ideal setting for unwinding and sharing a specially curated romantic supper with your significant other.</p>
-<h1 class = "text-3xl titlefont-regular">The Ambience</h1>
-<p class = "content-regular text-lg">The venue is decorated with Indian marigolds and roses complimenting candles all around. <br>
+<h1 class = "text-3xl titlefont-regular p-3 pt-8">The Ambience</h1>
+<p class = "content-regular text-lg w-[90vw]">The venue is decorated with Indian marigolds and roses complimenting candles all around. <br>
     This classic Indian look goes amazingly well with the backdrop of the City Palace and overall ambience.</p>
 
 <div class = "flex flex-col items-center pt-10">
-    <h1 class = "text-2xl titlefont-regular pb-5">Lakeside Dome </h1>
+    <h1 class = "text-3xl titlefont-bold pb-5">Lakeside Dome </h1>
 <img src = "im.png" class = "w-80 border border-white border-8">
 <p class = "p-5">
     An exquisite poolside dining experience under an intricately carved dome decorated with a curtain of fresh marigold and candle lit.
@@ -90,7 +90,7 @@ INR 8,500 + taxes for every additional guest
 <h1 class = "text-xl titlefont-bold">
     Charges
 </h1>
-<p>
+<p class = "pb-10">
     INR 50,000 for venue rental 
     Tapas and small bites priced at INR 2000 plus taxes per person
     drinks on alacarte

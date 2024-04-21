@@ -10,6 +10,15 @@
             note:""
         },
         {
+            name:"Safa Tying",
+            about:"Guests who admire our team’s perfect turbans may be interested to know that they tie these themselves, by hand, every day before they start work. Each turban consists of a length of traditional Rajasthani fabric, 30 feet (9 metres) long and 4 feet (1.2 metres) wide. It takes great skill to tie these perfectly and we would be delighted to guide you in tying your own."
+            ,duration:"Duration: 30 minutes",
+            price:"Price: INR 1500 per person",
+            imageLocation:"/a2.png",
+            note:"Note: Guests may also purchase their own safa at extra charge."
+        },
+
+        {
             name:"Temple Tour Through Tribal Villages",
             about:"This delightful experience begins with an early morning drive to fort Kumbhalgarh, followed by an exciting guided excursion through the Aravalli mountain ranges to the famous Ranakpur Jain temples. On the way, guests can stop to enjoy a gourmet picnic lunch, before visiting the adivasi (indigenous tribes) villages of Bheels, Meenas and Garasivas."
             ,duration:"Price and Duration are Customized",
@@ -71,7 +80,7 @@
             ,duration:"",
             price:"Price: INR 850 all inclusive of taxes per cycle for 6 hours",
             imageLocation:"/a10.png",
-            note:"Note: Designs are left all day and overnight and the same can be collected the following day"
+            note:""
         },
     ]
 </script>
@@ -83,9 +92,15 @@
       height:auto;
     }
 </style>
-<div class = "backgrounder">
-    <h1 class = "text-center text-4xl titlefont-bold p-5">Experiences</h1>
+<div class = "backgrounder flex flex-col items-center">
+    <h1 class = "text-center text-4xl titlefont-bold p-5">Guest experiences</h1>
 {#each data as date}
+<div class = "w-[90vw]">
     <Imp {...date}/>
+</div>
+    
 {/each}
+<div class = "h-[5vh]">
+
+</div>
 </div>

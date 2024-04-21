@@ -54,7 +54,7 @@
         {
             name:"The Dining Room",
             about:"Walk into the all-day dining restaurant that overlooks the outer courtyard and the Pichola Lake for the most refreshing and expansive breakfasts and flavoursome lunches and dinners.",
-            more:"Operational for Lunch (12P.M. – 3pm) and <br>Dinner (07P.M. – 10:30pm)<br>Minimum spend- INR 2500 plus taxes per person.",
+            more:"Operational for Lunch (12P.M. – 3pm) and <br>Dinner (07P.M. – 10:30pm)<br><br>Minimum spend- INR 2500 plus taxes per person.",
             imageLocation:"/dining/h.png",
             map:""
         },
@@ -66,16 +66,16 @@
             map:""
         },
         {
-            name:"Library Bar:",
-            about:"Walk into this intimate lounge designed like a luxury den, complete with dark wood paneling, fireplaces, fine art, books, and collectible artifacts for guests. The Library Bar is the place to for unwinding. Discover the finest selections of whiskies and liquors around the world",
-            more:"<br>Minimum spend- INR 2500 plus taxes per person.",
+            name:"Library Bar",
+            about:"Walk into this intimate lounge designed like a luxury den, complete with dark wood paneling, fireplaces, fine art, books, and collectible artifacts for guests. The Library Bar is the place for unwinding. Discover the finest selections of whiskies and liquors around the world.",
+            more:"12 A.M to 12 P.M<br><br>Minimum spend- INR 2500 plus taxes per person.",
             imageLocation:"/dining/k.png",
             map:""
         },
     ]
     let diningData4=[
         {
-            name:"THE ROYAL REPAST<br>(from the house of bedla)",
+            name:"THE ROYAL REPAST<br><p class = 'text-xl text-center'>(from the house of bedla)</p>",
             about: "The Royal Repast from THE HOUSE OF BEDLA, is a specialty restaurant and it is an attempt to link and reconcile food with history and heritage. It attempts to show you a glimpse of traditional Mewar Style cooking that is counted among the legends of this glorious lands.",
             more: "Operational from (11A.M.– 10:30pm)",
             imageLocation: "/dining/l.png",
