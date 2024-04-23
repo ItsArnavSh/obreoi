@@ -1,9 +1,9 @@
 <style>
     .backgrounder {
       background-image: url('/img/toc.png');
-      background-repeat: no-repeat;
+      background-repeat: repeat;
       background-size: cover;
-      height:100vh;
+      height:auto;
       overflow: hidden;
     }
 </style>
