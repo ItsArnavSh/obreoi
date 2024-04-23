@@ -17,10 +17,10 @@
             
             <div class = "content text-lg pb-10 pt-10 text-container ">
                 <p class = "pb-4">
-                    Nestled amidst the majestic Aravalli Mountain Range, The Oberoi Udaivilas stands as a mesmerizing tribute to the opulent legacy of Mewar. Our sanctuary exudes an aura of tranquility and romance, promising to immerse you in an unforgettable journey of splendor.
+                    <b>Nestled amidst the majestic Aravalli Mountain Range, The Oberoi Udaivilas stands as a mesmerizing tribute to the opulent legacy of Mewar. Our sanctuary exudes an aura of tranquility and romance, promising to immerse you in an unforgettable journey of splendor.</b>
                 </p>
                 <p class = " mt-20">
-                    With meticulous attention to detail and heartfelt hospitality, we strive to craft an experience that transcends ordinary luxury. Each moment spent with us is infused with warmth and sincerity, destined to weave a tapestry of happiness that lingers in your memory.
+                    <b>With meticulous attention to detail and heartfelt hospitality, we strive to craft an experience that transcends ordinary luxury. Each moment spent with us is infused with warmth and sincerity, destined to weave a tapestry of happiness that lingers in your memory.</b>
                 </p>
             </div>
             <Scroll/>
